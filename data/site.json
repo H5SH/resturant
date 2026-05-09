@@ -1,0 +1,345 @@
+{
+  "restaurant": {
+    "name": "Haji Sahab Biryani",
+    "established": "1989",
+    "tagline": "Ek Baar Khao, Baar Baar Aao",
+    "taglineEn": "Taste It Once, Crave It Forever",
+    "type": "biryani",
+    "description": "Lahore ki sabse mashoor biryani — since 1989. Haji Sahab ne ek karahi se shuru kiya, aaj poora shehar jaanta hai.",
+    "descriptionEn": "Lahore's most beloved biryani house — since 1989. What started with one pot and a street corner has become a legend.",
+    "logo": "/images/logo.png",
+    "phone": "+92 300 1234567",
+    "whatsapp": "+92 300 1234567",
+    "email": "hajisahab@biryani.pk",
+    "address": "Near Masjid Chowk, Cavalry Ground, Lahore",
+    "mapEmbedUrl": "https://maps.google.com/...",
+    "deliveryNote": "Home delivery available via WhatsApp order",
+    "socialLinks": {
+      "facebook": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "timing": [
+      { "day": "Monday – Saturday", "hours": "12:00 PM – 11:00 PM", "isOpen": true },
+      { "day": "Sunday", "hours": "12:00 PM – 12:00 AM", "isOpen": true },
+      { "day": "Juma Special", "hours": "Biryani ready by 1:00 PM sharp", "isOpen": true, "isSpecial": true }
+    ],
+    "badges": [
+      "Est. 1989",
+      "No Artificial Colors",
+      "Original Recipe",
+      "Family Owned",
+      "1000+ Daily Plates"
+    ]
+  },
+  "homepage": {
+    "heroVariant": "storyteller",
+    "heroSubVariant": "storyteller-full",
+    "heroCTA": {
+      "primary": { "text": "Order on WhatsApp", "link": "https://wa.me/923001234567" },
+      "secondary": { "text": "See Our Menu", "link": "/menu" }
+    },
+    "carouselSlides": [
+      {
+        "image": "https://picsum.photos/seed/biryani/1920/1080",
+        "heading": "Biryani Jaise Pehle Hoti Thi",
+        "headingEn": "Biryani the Way It Used to Be",
+        "subheading": "Dum pukht, original masala, 35 saal ka tajruba",
+        "tag": "Est. 1989"
+      },
+      {
+        "image": "https://picsum.photos/seed/karahi/1920/1080",
+        "heading": "Karahi Gosht — Asli Wali",
+        "headingEn": "The Real Deal Karahi",
+        "subheading": "Taza gosht, seedha tawa pe",
+        "tag": "Daily Fresh"
+      },
+      {
+        "image": "https://picsum.photos/seed/chai/1920/1080",
+        "heading": "Baad Mein Chai Zaroor",
+        "headingEn": "Always End with Chai",
+        "subheading": "Doodh patti jo yaad rahey",
+        "tag": "Since Always"
+      }
+    ],
+    "introContent": {
+      "heading": "Haji Sahab Ki Biryani",
+      "subheading": "The Story Behind the Steam",
+      "body": "In 1989, Haji Muhammad Yusuf set up a single pot on a street corner in Cavalry Ground. He had one recipe, passed down from his father, and a belief that good food needs no advertisement. Word spread. The line grew. The pot got bigger. The recipe never changed.",
+      "bodyUrdu": "1989 mein, Haji Sahab ne ek degi aur ek chaabi se shuru kiya. Aaj unka biryani poore Lahore mein mashhoor hai. Recipe wohi hai.",
+      "image": "https://picsum.photos/seed/pakistanifood/800/1000",
+      "founderImage": "https://picsum.photos/seed/chef/400/400",
+      "founderName": "Haji Muhammad Yusuf",
+      "founderTitle": "Founder & Head Chef",
+      "foundedYear": "1989",
+      "stats": [
+        { "value": "35+", "label": "Years Serving Lahore" },
+        { "value": "1000+", "label": "Plates Daily" },
+        { "value": "3rd", "label": "Generation Recipe" }
+      ]
+    },
+    "featuredItems": [
+      {
+        "id": 1,
+        "name": "Dum Biryani",
+        "nameUrdu": "دم بریانی",
+        "tag": "Bestseller",
+        "tagColor": "primary",
+        "image": "https://picsum.photos/seed/biryani/600/600",
+        "description": "Slow-cooked on dum with original 1989 masala. Half plate or full.",
+        "price": "PKR 350 / 600",
+        "spice": 3
+      },
+      {
+        "id": 2,
+        "name": "Karahi Gosht",
+        "nameUrdu": "کڑاہی گوشت",
+        "tag": "Must Try",
+        "tagColor": "accent",
+        "image": "https://picsum.photos/seed/mutton/600/600",
+        "description": "Fresh mutton, iron tawa, pure desi ghee. No shortcuts.",
+        "price": "PKR 1,800 / kg",
+        "spice": 4
+      },
+      {
+        "id": 3,
+        "name": "Raita & Salad",
+        "nameUrdu": "رائتہ",
+        "tag": "Completes the Meal",
+        "tagColor": "accent",
+        "image": "https://picsum.photos/seed/raita/600/600",
+        "description": "House-made dahi raita with boondi. The biryani is incomplete without it.",
+        "price": "PKR 80",
+        "spice": 0
+      }
+    ],
+    "statsBar": [
+      { "value": "1989", "label": "Established", "icon": "📅" },
+      { "value": "35+", "label": "Years of Legacy", "icon": "🏆" },
+      { "value": "1000+", "label": "Plates Per Day", "icon": "🍽️" },
+      { "value": "4.9", "label": "Google Rating", "icon": "⭐" }
+    ],
+    "whyUsPoints": [
+      { "icon": "🫕", "title": "Original Masala", "text": "Same recipe since 1989. Not a single ingredient changed." },
+      { "icon": "🥩", "title": "Fresh Meat Daily", "text": "Gosht aata hai subah, bikta hai shaam tak. Koi leftover nahi." },
+      { "icon": "🔥", "title": "Cooked on Wood Fire", "text": "Gas nahi, lakdi ki aag pe pakti hai biryani. Wohi khusbhu hai." },
+      { "icon": "👨‍👩‍👧‍👦", "title": "Family Business", "text": "Teen naslein is degi ki daikha bhal kar rahi hain." }
+    ]
+  },
+  "menu": {
+    "categories": [
+      {
+        "id": "biryani",
+        "name": "Biryani",
+        "nameUrdu": "بریانی",
+        "icon": "🍛",
+        "description": "Our signature — cooked fresh every day on dum",
+        "items": [
+          {
+            "id": "b1",
+            "name": "Dum Biryani (Half)",
+            "nameUrdu": "دم بریانی آدھی",
+            "description": "Serves 1-2 people. Original masala.",
+            "price": "PKR 350",
+            "image": "https://picsum.photos/seed/biryani/200/200",
+            "tag": "Bestseller",
+            "spice": 3,
+            "isAvailable": true
+          },
+          {
+            "id": "b2",
+            "name": "Dum Biryani (Full)",
+            "nameUrdu": "دم بریانی پوری",
+            "description": "Serves 3-4 people. Family size.",
+            "price": "PKR 600",
+            "image": "https://picsum.photos/seed/biryanifull/200/200",
+            "tag": "",
+            "spice": 3,
+            "isAvailable": true
+          },
+          {
+            "id": "b3",
+            "name": "Special Biryani",
+            "nameUrdu": "سپیشل بریانی",
+            "description": "Extra mutton, extra dum. For the real ones.",
+            "price": "PKR 850",
+            "image": "https://picsum.photos/seed/biryanispecial/200/200",
+            "tag": "Chef's Pick",
+            "spice": 4,
+            "isAvailable": true
+          }
+        ]
+      },
+      {
+        "id": "karahi",
+        "name": "Karahi & Gosht",
+        "nameUrdu": "کڑاہی",
+        "icon": "🫕",
+        "description": "Iron tawa, fresh gosht, desi ghee",
+        "items": [
+          {
+            "id": "k1",
+            "name": "Karahi Gosht",
+            "nameUrdu": "کڑاہی گوشت",
+            "description": "Mutton karahi per kg. Minimum 1 kg order.",
+            "price": "PKR 1,800 / kg",
+            "image": "https://picsum.photos/seed/karahi1/200/200",
+            "tag": "Must Try",
+            "spice": 4,
+            "isAvailable": true
+          },
+          {
+            "id": "k2",
+            "name": "Chicken Karahi",
+            "nameUrdu": "چکن کڑاہی",
+            "description": "Farm fresh chicken, same iron tawa.",
+            "price": "PKR 1,200 / kg",
+            "image": "https://picsum.photos/seed/karahi2/200/200",
+            "tag": "",
+            "spice": 3,
+            "isAvailable": true
+          }
+        ]
+      },
+      {
+        "id": "sides",
+        "name": "Sides & Drinks",
+        "nameUrdu": "ساتھ کے لیے",
+        "icon": "🥤",
+        "description": "The biryani is incomplete without these",
+        "items": [
+          {
+            "id": "s1",
+            "name": "Boondi Raita",
+            "nameUrdu": "رائتہ",
+            "description": "Homemade dahi raita. The essential.",
+            "price": "PKR 80",
+            "image": "https://picsum.photos/seed/raita1/200/200",
+            "tag": "",
+            "spice": 0,
+            "isAvailable": true
+          },
+          {
+            "id": "s2",
+            "name": "Doodh Patti Chai",
+            "nameUrdu": "چائے",
+            "description": "Strong, milky, the way it should be.",
+            "price": "PKR 60",
+            "image": "https://picsum.photos/seed/chai1/200/200",
+            "tag": "Fan Favourite",
+            "spice": 0,
+            "isAvailable": true
+          },
+          {
+            "id": "s3",
+            "name": "Fresh Naan",
+            "nameUrdu": "نان",
+            "description": "Tandoor fresh. Per piece.",
+            "price": "PKR 30",
+            "image": "https://picsum.photos/seed/naan/200/200",
+            "tag": "",
+            "spice": 0,
+            "isAvailable": true
+          }
+        ]
+      }
+    ]
+  },
+  "about": {
+    "heading": "35 Saal, Ek Recipe",
+    "headingEn": "35 Years, One Recipe",
+    "story": [
+      {
+        "year": "1989",
+        "text": "Haji Muhammad Yusuf started with a single degi on a street corner in Cavalry Ground. One masala, one dream."
+      },
+      {
+        "year": "1995",
+        "text": "Word spread through the neighbourhood. The line grew so long he had to hire his first helper — his nephew, Tariq."
+      },
+      {
+        "year": "2003",
+        "text": "The family opened a proper seating area. People finally had a table. The recipe, as always, stayed the same."
+      },
+      {
+        "year": "2018",
+        "text": "Haji Sahab's sons took over operations. The old man still checks the masala every morning."
+      },
+      {
+        "year": "2024",
+        "text": "Third generation. Still the same recipe. Still the same wood fire. Still the same long line."
+      }
+    ],
+    "founderQuote": "Khaana sachcha ho toh advertisement ki zaroorat nahi. Log khud batate hain.",
+    "founderQuoteEn": "If the food is honest, it needs no advertisement. People tell each other.",
+    "founderName": "Haji Muhammad Yusuf",
+    "founderImage": "https://picsum.photos/seed/founder/800/800"
+  },
+  "reviews": {
+    "heading": "Log Kya Kehte Hain",
+    "headingEn": "What People Say",
+    "subheading": "Hamare grahak hi hamare brand ambassador hain",
+    "averageRating": 4.9,
+    "totalReviews": 1247,
+    "items": [
+      {
+        "id": 1,
+        "name": "Asad Mehmood",
+        "location": "DHA Phase 4",
+        "dish": "Dum Biryani",
+        "visits": "Regular since 2012",
+        "rating": 5,
+        "text": "I moved across the city but still come here for Friday biryani. Nothing beats the original taste. The dum is perfect.",
+        "avatar": "https://picsum.photos/seed/user1/100/100"
+      },
+      {
+        "id": 2,
+        "name": "Sadia Rahman",
+        "location": "Gulberg",
+        "dish": "Karahi Gosht",
+        "visits": "Weekly visitor",
+        "rating": 5,
+        "text": "The Karahi here reminds me of my grandmother's cooking. Cooked in pure desi ghee with a smoky flavor from the tawa. Highly recommended.",
+        "avatar": "https://picsum.photos/seed/user2/100/100"
+      },
+      {
+        "id": 3,
+        "name": "Bilal Chaudhry",
+        "location": "Johar Town",
+        "dish": "Special Biryani",
+        "visits": "Comes from across the city",
+        "rating": 5,
+        "text": "If you are truly a biryani lover, this is your pilgrimage. The special biryani with extra mutton is out of this world.",
+        "avatar": "https://picsum.photos/seed/user3/100/100"
+      }
+    ]
+  },
+  "contact": {
+    "heading": "Aayein Ya Order Karein",
+    "headingEn": "Visit Us or Order In",
+    "subheading": "WhatsApp pe message karein, hum bata dein ge",
+    "orderNote": "For bulk orders (dawat/catering), call or WhatsApp at least 1 day in advance.",
+    "faqs": [
+      {
+        "q": "Kya home delivery hoti hai?",
+        "qEn": "Do you deliver?",
+        "a": "Haan, WhatsApp pe order karein aur apna address bhejein. Nearby areas mein delivery available hai."
+      },
+      {
+        "q": "Dawat ke liye order kar sakte hain?",
+        "qEn": "Can we order for events?",
+        "a": "Bilkul — dawat, parties aur office ke liye bulk orders available hain. Ek din pehle bata dein."
+      },
+      {
+        "q": "Biryani kab tak available hoti hai?",
+        "qEn": "When is biryani available?",
+        "a": "Biryani dopahar 12 baje se shuru hoti hai aur raat tak — jab tak stock hai. Juma ko 1 baje ready."
+      },
+      {
+        "q": "Parcel pack milta hai?",
+        "qEn": "Is takeaway available?",
+        "a": "Haan, parcel always available hai. Call karein ya seedha aa jayein."
+      }
+    ]
+  }
+}
